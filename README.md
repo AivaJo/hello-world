@@ -1,5 +1,5 @@
 # hello-world
-tryout of flask app
+tryout of flask app kāpēc!!!!
 how to send something to git repo from here
 not  changed???
 
